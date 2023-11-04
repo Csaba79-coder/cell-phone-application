@@ -3,7 +3,6 @@ package com.csaba79coder;
 import com.csaba79coder.model.Contact;
 import com.csaba79coder.model.MobilePhone;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class MobileApp {
